@@ -1,0 +1,742 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.9",
+    "versionPublish": "2.9",
+    "name": "TSD Consulting Level 1 Site (Prototype)",
+    "favicon": "",
+    "publishType": "gdrive",
+    "publishGDriveLocation": "",
+    "publishGDrivePath": "ThinkShiftDesign Website",
+    "path": "file:///Users/aldrinMP/Google%20Drive/Mobirise/ThinkShiftDesign%20Website",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "18px"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/think-849x208-99.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "",
+              "link": "http://www.thinkshiftdesign.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-22\">Who We Are</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#slider-6\">What We Do</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-9\">Our Portfolio</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www2.thinkshiftdesign.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "H1": {
+              "color": "#efefef"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header4-1",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/3-5886x3152-95.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#4c6972",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "T<span style=\"font-weight: normal;\">hink</span>.S<span style=\"font-weight: normal;\">hift</span>.D<span style=\"font-weight: normal;\">esign</span>",
+          "text": "Your Bridge to Change\u001b",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Who we are</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">What we do</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">What we've done</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#eb6b56",
+              "font-size": "36px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#000000",
+              "font-size": "22px"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#2969b0",
+              "font-size": "24px",
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-size": "14px"
+            },
+            ".mbr-article UL": {
+              "color": "#28324e"
+            },
+            ".mbr-article LI": {
+              "color": "#000000"
+            },
+            ".mbr-article H2": {
+              "font-size": "25px",
+              "color": "#475577"
+            },
+            ".mbr-article DIV": {
+              "font-size": "24px"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-22",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/tsd-logo-what-do-you-see-800x800-25.jpg",
+              "link": "",
+              "alt": "",
+              "title": "Duck or Rabbit?",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "We are a Modern&nbsp;<br>Consulting Agency.",
+          "meta": "<br>",
+          "text": "<h1></h1><h2><span style=\"font-weight: normal;\">Serving as your </span>Bridge<span style=\"font-weight: normal;\"> </span></h2><h2><span style=\"font-weight: normal;\">to </span>Positive<span style=\"font-weight: normal;\"> and </span>Sustainable<span style=\"font-weight: normal;\"> Change.</span></h2><div><br></div><div><br></div>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www2.thinkshiftdesign.com/tsd-network/the-modern-consulting-firm\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">THE MODERN CONSULTANCY</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"http://www2.thinkshiftdesign.com/tsd-network/bridge-of-change\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YOUR BRIDGE TO POSITIVE AND SUSTAINABLE CHANGE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"http://www2.thinkshiftdesign.com/tsd-network/duck-or-rabbit\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DO YOU SEE A RABBIT OR A DUCK?</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "slider",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            "H1": {
+              "color": "#ffffff",
+              "font-size": "48px"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": true,
+                "image": "images/slide1.jpg",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Corporate Services",
+                "showText": true,
+                "text": "We are Here to Work with You.",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www2.thinkshiftdesign.com\" data-toolbar=\"-mbrBtnMove\">SPEAKING ENGAGEMENTS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www2.thinkshiftdesign.com\" data-toolbar=\"-mbrBtnMove\">CORPORATE TRAINING</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www2.thinkshiftdesign.com\" data-toolbar=\"-mbrBtnMove\">ADVISORY AND CONSULTANCY</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www2.thinkshiftdesign.com\" data-toolbar=\"-mbrBtnMove\">PROJECT MANAGEMENT</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/bridge-community-2703x2106-1.jpg",
+                "contentAlign": "center",
+                "overlay": true,
+                "showTitle": true,
+                "title": "The TSD Network",
+                "showText": true,
+                "text": "A network comprising thinker-practioners and subject matter experts, working together across disciplines and in various capacities for organisational impact and improvement.",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www2.thinkshiftdesign.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;WHO WE ARE<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www2.thinkshiftdesign.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOIN US</a>"
+              },
+              {
+                "active": false,
+                "image": "images/slide2.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": true,
+                "title": "Outreach",
+                "showText": true,
+                "text": "Activities and Publications that support, advocate and create new insights and fresh perspectives, heading towards a paradigm shift.",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www2.thinkshiftdesign.com\" data-toolbar=\"-mbrBtnMove\">READ OUR WORKS</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www2.thinkshiftdesign.com\" data-toolbar=\"-mbrBtnMove\">PARTICIPATE</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/bridge-design-platform-3428x2285-71.jpg",
+                "contentAlign": "center",
+                "overlay": true,
+                "showTitle": true,
+                "title": "DESIGN. Platform",
+                "showText": true,
+                "text": "Have an idea waiting to be turned into a reality? Consider our in-house design platforms that support experimental, innovative and proof of concept projects.&nbsp;",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www2.thinkshiftdesign.com\" data-toolbar=\"-mbrBtnMove\">PLATFORM D PROJECTS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www2.thinkshiftdesign.com\" data-toolbar=\"-mbrBtnMove\">DESIGN WITH US</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-6",
+          "articleLayout": false
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#b8312f",
+              "font-size": "36px"
+            },
+            ".mbr-header__subtext": {
+              "font-size": "19px"
+            }
+          },
+          "_anchor": "features1-9",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": true,
+            "showSubheader": true,
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "OUR PLATFORMS",
+          "subheader": "We believe in walking the talk.<br>Here's our Proof.",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tamtf-web-logo-250x250-white-250x250-20.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "Learn.Master.Flourish",
+          "caption1": "Personal and Organisational Developmental Programmes that promote Mastery and Excellence, Learning Widely and Deeply.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://teachamantofish.com.sg\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/the-agency-logo-full-460x182-81.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "Building Talent, Creating Social Capital",
+          "caption2": "Fulfilling your organisational needs with talent scouting, outsourcing, manpower and bootstrap solutions.<br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"theagency.pafoi.org\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PEOPLE POWER</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/threeis-logo-lowres-02-copy-591x208-67.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "3is.co",
+          "caption3": "Reach out to your customers or prospective employers with our extensive suite of Creative Design and up-to-date Marketing services.<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://3is.co\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REACH OUT</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tanda-logo-web-logo-283x223-10.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "Spaces that make Sense",
+          "caption4": "Making beautiful and sustainable homes, business, schools and work spaces a reality.",
+          "button4": "<a data-app-btn=\"true\" href=\"http://tandacreativ.es\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CHANGE YOUR SURROUNDINGS</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/groupmascotscolour-692x534-8.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "Lemon Juice &amp; Biscuit",
+          "caption5": "Check out their range of \"Positive Experiences\" programmes and products that bring out the best in you!&nbsp;",
+          "button5": "<a data-app-btn=\"true\" href=\"http://www.lemonjuiceandbiscuit.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOUNDS GOOD</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/pafoi-web-logo-298x166-34.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "Plant A Forest of Ideas",
+          "caption6": "Itching to do something meaningful? Find a mentor, hang out with like-minded people or engage in a social project.",
+          "button6": "<a data-app-btn=\"true\" href=\"http://plantaforestofideas.org\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">START SOMETHING&nbsp;</a>"
+        },
+        {
+          "_name": "features1",
+          "_anchor": "features1-27",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": "5",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/esn-logo-chosen-336x321-42.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "Making Education Right",
+          "caption1": "Supporting every educational stakeholders' need with the latest educational news, research and professional services.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.edusupport.network\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EDUCATION ROCKS!</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/aa-logo-banner-png-736x470-74.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "Your Business is Our Business",
+          "caption2": "A wide range of technology-enhanced services that makes your life Efficient and Smart! Services include Travel, Shopping, Business support, &nbsp;Saving Lives. Heal the Environment.&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.aardvarkants.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DO MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/pafoi-web-logo-298x166-56.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "Ideas. Communities. Projects",
+          "caption3": "Itching to do something meaningful? Find a mentor, hang out with like-minded people or engage in a social project.",
+          "button3": "<a data-app-btn=\"true\" href=\"http:/www.pafoi.org\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">START SOMETHING</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ljb-web-logo-692x534-42.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "Lemon, Juice &amp; Biscuit",
+          "caption4": "Check out their range of \"Positive Experiences\" programmes and products that bring out the best in you! ",
+          "button4": "<a data-app-btn=\"true\" href=\"http://www.lemonjuiceandbiscuit.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOUNDS GOOD<br></a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/256px-hal9000-256x256-66.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "Just Call Me. Hal.",
+          "caption5": "A Personal Assistant supporting your every need.&nbsp;",
+          "button5": "<a data-app-btn=\"true\" href=\"http://justcallmehal.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CALL ME</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "items": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">“I really enjoyed today's session. I usually don't enjoy full day workshops but both the trainers really made my day an amazing one! Thank you so much for inspiring, and sharing the idea of Design Thinking. I love it! Good job!”</p>",
+              "authorName": "DOROTHY G.",
+              "authorBio": "Polytechnic Senior Management"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"I was stuck and about to give up on my business. TSD gave me a whole new perspective of looking at things. They identified the key problems, showed me how to improve my business process to make it sustainable and provided a system to manage my projects.They have been truly inspiring!\"</p>",
+              "authorName": "JENNIFER E.",
+              "authorBio": "Lalyta Creations"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“T.S.D. provided timely, customised advice and solutions that helped a first-time entrepreneur structure and grow a business.”</p>",
+              "authorName": "KAREN A.",
+              "authorBio": "Entreprener&nbsp;"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"... unique ability to always see the big picture has transformed my overly traditional business selling a single product to a comprehensive business model with multiple product lines and multiple target markets.\"</p>",
+              "authorName": "TAN C.H.",
+              "authorBio": "Business Owner of 20 Years"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"Your workshop has caused a paradigm shift in the way I solve problems at work! Will try to apply in my daily life too!\"</p>",
+              "authorName": "MR TAY",
+              "authorBio": "Ministry of Education Singapore"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">“I first engaged them to institute change in my organisation. In the end, I got inspired,  quit my job and joined them!\"</p>",
+              "authorName": "LINENG H.",
+              "authorBio": "TSD Subject Matter Expert"
+            }
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">“I really enjoyed today's session. I usually don't enjoy full day workshops but both the trainers really made my day an amazing one! Thank you so much for inspiring, and sharing the idea of Design Thinking. I love it! Good job!”</p>",
+              "authorName": "DOROTHY G.",
+              "authorBio": "Polytechnic Senior Management"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"I was stuck and about to give up on my business. TSD gave me a whole new perspective of looking at things. They identified the key problems, showed me how to improve my business process to make it sustainable and provided a system to manage my projects.They have been truly inspiring!\"</p>",
+              "authorName": "JENNIFER E.",
+              "authorBio": "Lalyta Creations"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“T.S.D. provided timely, customised advice and solutions that helped a first-time entrepreneur structure and grow a business.”</p>",
+              "authorName": "KAREN A.",
+              "authorBio": "Entreprener&nbsp;"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"... unique ability to always see the big picture has transformed my overly traditional business selling a single product to a comprehensive business model with multiple product lines and multiple target markets.\"</p>",
+              "authorName": "TAN C.H.",
+              "authorBio": "Business Owner of 20 Years"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"Your workshop has caused a paradigm shift in the way I solve problems at work! Will try to apply in my daily life too!\"</p>",
+              "authorName": "MR TAY",
+              "authorBio": "Ministry of Education Singapore"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">“I first engaged them to institute change in my organisation. In the end, I got inspired,  quit my job and joined them!\"</p>",
+              "authorName": "LINENG H.",
+              "authorBio": "TSD Subject Matter Expert"
+            }
+          ],
+          "_anchor": "testimonials1-13",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": "6",
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "WHAT OUR CLIENTS SAY"
+        },
+        {
+          "_name": "form1",
+          "_anchor": "form1-7",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "How can we help?",
+          "form": {
+            "action": "hal@thinkshiftdesign.com",
+            "alerts": {
+              "success": "Thank you for your interest in T.S.D. \nWe'll get back to you within three working days."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_name": "contacts1",
+          "_anchor": "contacts1-15",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tsd-logo-06-black-283x144-64.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "text1": "<b>T.S.D. Consulting LLP</b><b><br></b><br><b><br></b>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: hal@thinkshiftdesign.com<br>Singapore : +65 (0) 000 0000 001<br>International: VOIP<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www2.thinkshiftdesign.com\" target=\"_blank\">Corporate Site</a></li><li><br></li></ul>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-10",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 T.S.D. Consulting LLP. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"http://www2.thinkshiftdesign.com/terms-of-use\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"http://www2.thinkshiftdesign.com/privacy-policy\" target=\"_blank\">Privacy Policy</a>"
+        }
+      ]
+    }
+  }
+}
