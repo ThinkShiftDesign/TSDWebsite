@@ -13,7 +13,9 @@
     "theme": {
       "styling": {}
     },
-    "publishPath": "file:///Users/TEE/Github/tsdwebsite"
+    "publishPath": "file:///Users/TEE/Github/tsdwebsite",
+    "noImageResize": "true",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-85446248-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
   "pages": {
     "index.html": {
@@ -193,7 +195,7 @@
           "title": "We are a Modern&nbsp;<br>Consulting Agency.",
           "meta": "<br>",
           "text": "<h1></h1><h2><span style=\"font-weight: normal;\">Serving as your </span>Bridge<span style=\"font-weight: normal;\"> </span></h2><h2><span style=\"font-weight: normal;\">to </span>Positive<span style=\"font-weight: normal;\"> and </span>Sustainable<span style=\"font-weight: normal;\"> Change.</span></h2><div><br></div><div><br></div>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://corporate.thinkshiftdesign.com/home/the-modern-consultancy\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">THE MODERN CONSULTANCY</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"http://corporate.thinkshiftdesign.com/home/bridge-of-change\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YOUR BRIDGE TO POSITIVE AND SUSTAINABLE CHANGE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"http://corporate.thinkshiftdesign.com/home/duck-or-rabbit\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DO YOU SEE A RABBIT OR A DUCK?</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://corporate.thinkshiftdesign.com/about/the-modern-consulting-firm\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">THE MODERN CONSULTANCY</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"http://corporate.thinkshiftdesign.com/about/bridge-of-change\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YOUR BRIDGE TO POSITIVE AND SUSTAINABLE CHANGE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"http://corporate.thinkshiftdesign.com/about/duck-or-rabbit\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DO YOU SEE A RABBIT OR A DUCK?</a>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -218,11 +220,11 @@
                 "image": "images/slide1.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Corporate Services",
+                "title": "Professional Services",
                 "showText": true,
                 "text": "We are Here to Work with You.",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://corporate.thinkshiftdesign.com/corporate-services/speaking-engagements\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SPEAKING ENGAGEMENTS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://corporate.thinkshiftdesign.com/corporate-services/corporate-training\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CORPORATE TRAINING</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://corporate.thinkshiftdesign.com/corporate-services/advisory-and-consultancy\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ADVISORY AND CONSULTANCY</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://corporate.thinkshiftdesign.com/corporate-services/project-management\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PROJECT MANAGEMENT</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://corporate.thinkshiftdesign.com/services/speaking-engagements\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SPEAKING ENGAGEMENTS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://corporate.thinkshiftdesign.com/services/training-workshops\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TRAINING</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://corporate.thinkshiftdesign.com/services/advisory-and-consultancy\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ADVISORY AND CONSULTANCY</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://corporate.thinkshiftdesign.com/services/project-management\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PROJECT MANAGEMENT</a>"
               },
               {
                 "active": false,
@@ -230,11 +232,11 @@
                 "contentAlign": "center",
                 "overlay": true,
                 "showTitle": true,
-                "title": "The TSD Network",
+                "title": "Build Social Capital",
                 "showText": true,
-                "text": "A network comprising thinker-practioners and subject matter experts, working together across disciplines and in various capacities for organisational impact and improvement.",
+                "text": "Crowd-sourcing a network comprising of thinker-practioners and subject matter experts, working together across disciplines and in various capacities for greater impact.",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://corporate.thinkshiftdesign.com/tsd-network\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;WHO WE ARE<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www2.thinkshiftdesign.com/contact-us/join-us-or-contribute\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOIN US</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://corporate.thinkshiftdesign.com/the-tsd-network\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">THE TSD NETWORK<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://sites.google.com/site/thinkshiftdesign/contact/join-us-contribute\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOIN US</a>"
               },
               {
                 "active": false,
@@ -242,11 +244,11 @@
                 "contentAlign": "center",
                 "overlay": false,
                 "showTitle": true,
-                "title": "Outreach",
+                "title": "Facilitate Change",
                 "showText": true,
                 "text": "Activities and Publications that support, advocate and create new insights and fresh perspectives, heading towards a paradigm shift.",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://outreach.thinkshiftdesign.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ OUR WORKS</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://outreach.thinkshiftdesign.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PARTICIPATE</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://sites.google.com/site/thinkshiftdesign/outreach\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TSD OUTREACH</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://corporate.thinkshiftdesign.com/contact/participate\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PARTICIPATE</a>"
               },
               {
                 "active": false,
@@ -254,11 +256,11 @@
                 "contentAlign": "center",
                 "overlay": true,
                 "showTitle": true,
-                "title": "DESIGN. Platform",
+                "title": "Design.",
                 "showText": true,
                 "text": "Have an idea waiting to be turned into a reality? Consider our in-house design platforms that support experimental, innovative and proof of concept projects.&nbsp;",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://research.thinkshiftdesign.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PLATFORM D PROJECTS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://research.thinkshiftdesign.com\" data-toolbar=\"-mbrBtnMove\">DESIGN WITH US</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://corporate.thinkshiftdesign.com/projects\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TSD DESIGN PROJECTS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://corporate.thinkshiftdesign.com/projects/test-your-designs\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESIGN WITH US</a>"
               }
             ],
             "fullScreen": true,
@@ -304,7 +306,7 @@
             "showButtons": true
           },
           "headerAlign": "left",
-          "header": "OUR PORTFOLIO",
+          "header": "OUR PLATFORMS",
           "subheader": "We believe in walking the talk.<br>Here's our Proof.",
           "media1": {
             "image": {
@@ -379,9 +381,9 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "title4": "Spaces that make Sense",
+          "title4": "Transforming Spaces",
           "caption4": "Making beautiful and sustainable homes, schools and work spaces a reality.",
-          "button4": "<a data-app-btn=\"true\" href=\"http://tandacreativ.es\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CHANGE YOUR SURROUNDINGS</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://www.tandacreativ.es\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CHANGE YOUR SURROUNDINGS</a>",
           "media5": {
             "image": {
               "active": true,
@@ -524,7 +526,7 @@
             }
           },
           "title4": "Lemon, Juice &amp; Biscuit",
-          "caption4": "Check out their range of \"Positive Experiences\" programmes and products that bring out the best in you! ",
+          "caption4": "Check out their range of \"Positive Experiences\" Programmes, Communities and Products that bring out the best in you! ",
           "button4": "<a data-app-btn=\"true\" href=\"http://www.lemonjuiceandbiscuit.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOUNDS GOOD<br></a>",
           "media5": {
             "image": {
@@ -719,8 +721,8 @@
               "linkInNewWindow": false
             }
           },
-          "text1": "<b>T.S.D. Consulting LLP</b><br>UEN: T16LL0350E<br>",
-          "text2": "<strong>CONTACT US</strong><br>\nEmail: hal@thinkshiftdesign.com<br>Singapore : +65-6900-5065<br><br>",
+          "text1": "<b>T.S.D. Consulting LLP</b><br>Singapore<br>UEN: T16LL0350E<br>",
+          "text2": "<strong>CONTACT US</strong><br>\nEmail: <a href=\"mailto:hal@thinkshiftdesign.com\" target=\"_blank\">hal@thinkshiftdesign.com</a><br>Tel : +65-6900-5065<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://corporate.thinkshiftdesign.com\" target=\"_blank\">Corporate Site</a></li><li><br></li></ul>"
         },
         {
